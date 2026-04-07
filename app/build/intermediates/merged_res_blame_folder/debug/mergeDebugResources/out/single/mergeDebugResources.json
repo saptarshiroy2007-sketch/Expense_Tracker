@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_fragment_analytics.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\fragment_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_fragment_transactions.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\fragment_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_dialog_add_category.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\dialog_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.expensetracker.app-debug-35:/layout_activity_category_selection.xml.flat",
+        "source": "com.expensetracker.app-main-37:/layout/activity_category_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_activity_category_selection.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\activity_category_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-debug-35:\\layout_activity_manage_categories.xml.flat",
+        "source": "C:\\Users\\sapta\\.gradle\\daemon\\9.0.0\\com.expensetracker.app-main-37:\\layout\\activity_manage_categories.xml"
+    },
+    {
+        "merged": "com.expensetracker.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.expensetracker.app-main-37:/layout/activity_main.xml"
+    }
+]
